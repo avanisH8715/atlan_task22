@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/atlan_task22/static/css/main.2d4775f7.chunk.css",
+    "main.js": "/atlan_task22/static/js/main.89df2992.chunk.js",
+    "main.js.map": "/atlan_task22/static/js/main.89df2992.chunk.js.map",
+    "runtime-main.js": "/atlan_task22/static/js/runtime-main.7a165940.js",
+    "runtime-main.js.map": "/atlan_task22/static/js/runtime-main.7a165940.js.map",
+    "static/js/2.9becf805.chunk.js": "/atlan_task22/static/js/2.9becf805.chunk.js",
+    "static/js/2.9becf805.chunk.js.map": "/atlan_task22/static/js/2.9becf805.chunk.js.map",
+    "static/js/3.0f5526d6.chunk.js": "/atlan_task22/static/js/3.0f5526d6.chunk.js",
+    "static/js/3.0f5526d6.chunk.js.map": "/atlan_task22/static/js/3.0f5526d6.chunk.js.map",
+    "index.html": "/atlan_task22/index.html",
+    "static/css/main.2d4775f7.chunk.css.map": "/atlan_task22/static/css/main.2d4775f7.chunk.css.map",
+    "static/js/2.9becf805.chunk.js.LICENSE.txt": "/atlan_task22/static/js/2.9becf805.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a165940.js",
+    "static/js/2.9becf805.chunk.js",
+    "static/css/main.2d4775f7.chunk.css",
+    "static/js/main.89df2992.chunk.js"
+  ]
+}
