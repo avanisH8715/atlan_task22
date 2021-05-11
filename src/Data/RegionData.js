@@ -1,0 +1,18 @@
+export const regions = [
+    {
+      "regionID": 1,
+      "regionDescription": "Eastern"
+    },
+    {
+      "regionID": 2,
+      "regionDescription": "Western"
+    },
+    {
+      "regionID": 3,
+      "regionDescription": "Northern"
+    },
+    {
+      "regionID": 4,
+      "regionDescription": "Southern"
+    }
+  ];
